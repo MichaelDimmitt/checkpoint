@@ -1,3 +1,6 @@
+this concept is refered to as static metaprogramming
+instead of dynamic metaprogramming. paolo perrotta discussed the inverse in metaprogramming ruby 2!
+
 # checkpoint - alternative name? trim_
 metaprogramming and persist method may be called. 
 
